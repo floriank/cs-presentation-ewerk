@@ -1,0 +1,8 @@
+{
+  "name": "CoffeeScript",
+  "description": "CoffeeScript Lightning Talk",
+  "sections": [
+    {"section":"intro"},
+    {"section":"killer_features"}
+  ]
+}
