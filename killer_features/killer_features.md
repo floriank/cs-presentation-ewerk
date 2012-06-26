@@ -138,7 +138,7 @@
 !SLIDE center transition=fade
 
 # Killer Feature #7
-# ** Array Operationen (und Intervalle!)**
+# ** Array Operationen **
 
 !SLIDE small transition=fade
 

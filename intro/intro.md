@@ -9,7 +9,7 @@
 
 # Über JavaScript
 
-* JavaScript ist "C im Lisp-Gewand"
+* JavaScript ist "Lisp im C-Gewand"
 * JavaScript läuft (so gut wie) überall
 * JavaScript ist furchtbar
 
@@ -24,5 +24,5 @@
 
 !SLIDE center transition=fade
 
-# Crockford ist Fürsprecher!
+# Crockford ist begeistert!
 ![Victory](images/victorious.png)

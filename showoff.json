@@ -3,6 +3,7 @@
   "description": "CoffeeScript Lightning Talk",
   "sections": [
     {"section":"intro"},
-    {"section":"killer_features"}
+    {"section":"killer_features"},
+    {"section":"closing"}
   ]
 }
